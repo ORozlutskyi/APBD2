@@ -1,0 +1,14 @@
+C:\Users\orozl\APBD\APBD2\APBD\APBD2\bin\Debug\net8.0\APBD2.exe
+C:\Users\orozl\APBD\APBD2\APBD\APBD2\bin\Debug\net8.0\APBD2.deps.json
+C:\Users\orozl\APBD\APBD2\APBD\APBD2\bin\Debug\net8.0\APBD2.runtimeconfig.json
+C:\Users\orozl\APBD\APBD2\APBD\APBD2\bin\Debug\net8.0\APBD2.dll
+C:\Users\orozl\APBD\APBD2\APBD\APBD2\bin\Debug\net8.0\APBD2.pdb
+C:\Users\orozl\APBD\APBD2\APBD\APBD2\obj\Debug\net8.0\APBD2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orozl\APBD\APBD2\APBD\APBD2\obj\Debug\net8.0\APBD2.AssemblyInfoInputs.cache
+C:\Users\orozl\APBD\APBD2\APBD\APBD2\obj\Debug\net8.0\APBD2.AssemblyInfo.cs
+C:\Users\orozl\APBD\APBD2\APBD\APBD2\obj\Debug\net8.0\APBD2.csproj.CoreCompileInputs.cache
+C:\Users\orozl\APBD\APBD2\APBD\APBD2\obj\Debug\net8.0\APBD2.dll
+C:\Users\orozl\APBD\APBD2\APBD\APBD2\obj\Debug\net8.0\refint\APBD2.dll
+C:\Users\orozl\APBD\APBD2\APBD\APBD2\obj\Debug\net8.0\APBD2.pdb
+C:\Users\orozl\APBD\APBD2\APBD\APBD2\obj\Debug\net8.0\APBD2.genruntimeconfig.cache
+C:\Users\orozl\APBD\APBD2\APBD\APBD2\obj\Debug\net8.0\ref\APBD2.dll
