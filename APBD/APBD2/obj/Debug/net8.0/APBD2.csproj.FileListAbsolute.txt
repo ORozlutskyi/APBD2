@@ -12,3 +12,4 @@ C:\Users\orozl\APBD\APBD2\APBD\APBD2\obj\Debug\net8.0\refint\APBD2.dll
 C:\Users\orozl\APBD\APBD2\APBD\APBD2\obj\Debug\net8.0\APBD2.pdb
 C:\Users\orozl\APBD\APBD2\APBD\APBD2\obj\Debug\net8.0\APBD2.genruntimeconfig.cache
 C:\Users\orozl\APBD\APBD2\APBD\APBD2\obj\Debug\net8.0\ref\APBD2.dll
+C:\Users\orozl\APBD\APBD2\APBD\APBD2\obj\Debug\net8.0\APBD2.sourcelink.json
