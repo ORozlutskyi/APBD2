@@ -17,13 +17,13 @@ class Program
 
     public static int Srednia(int[] liczby)
     {
-        int suma = 0;
+        int suma2 = 0;
         for (int i = 0; i < liczby.Length; i++)
         {
-            suma += liczby[i];
+            suma2 += liczby[i];
         }
 
-        return suma / liczby.Length;
+        return suma2 / liczby.Length;
     }
     
     public static int Max(int[] liczby)
